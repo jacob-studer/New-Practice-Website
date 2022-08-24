@@ -13,6 +13,8 @@ Pictures
 Upload Capability 
 Personal Accounts/Authentication
 
+Could use express routing with premade objects and short term storage before learning and implementing mongoose/mongodb
+
 What type of website this will be: (Still In Development)
 
 Media Website? 
